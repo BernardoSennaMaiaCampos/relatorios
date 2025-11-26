@@ -76,9 +76,29 @@
             <version>6.21.0</version>
         </dependency>
 
+        <!-- Apache POI - Excel -->
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>5.2.5</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>5.2.5</version>
+        </dependency>
+
+        <!-- Necessário para alguns exportadores do Jasper -->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-collections4</artifactId>
+            <version>4.4</version>
+        </dependency>
 
 
-	</dependencies>
+
+    </dependencies>
 
 	<build>
 		<plugins>

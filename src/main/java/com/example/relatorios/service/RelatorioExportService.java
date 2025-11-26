@@ -17,9 +17,9 @@ public class RelatorioExportService {
 
     private List<Produto> criarMock() {
         return Arrays.asList(
-                new Produto(1L, "Monitor 24\"", 899.00),
-                new Produto(2L, "Teclado Mecânico", 350.00),
-                new Produto(3L, "SSD 1TB", 420.50)
+                new Produto(1L, "Curso completo de Java - Prof. Johnny Soares", 8500.00),
+                new Produto(2L, "Curso de construção de motores para aeronaves comerciais - Prof. Victor Samuel", 10000.00),
+                new Produto(3L, "Ganhe dinheiro dormindo e fique bilionário antes dos 30 - Prof. Gabriel Zeni", 4200.00)
         );
     }
 
