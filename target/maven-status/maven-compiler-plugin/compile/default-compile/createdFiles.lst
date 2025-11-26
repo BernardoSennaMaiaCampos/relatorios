@@ -1,4 +1,6 @@
 com\example\relatorios\service\RelatorioService.class
-com\example\relatorios\controller\RelatorioController.class
+com\example\relatorios\controller\RelatorioExportController.class
 com\example\relatorios\RelatoriosApplication.class
+com\example\relatorios\service\RelatorioExportService.class
+com\example\relatorios\controller\RelatorioController.class
 com\example\relatorios\model\Produto.class
