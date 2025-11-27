@@ -1,3 +1,7 @@
+# Instalação Limpa
+mvn clean install
+
+
 # Windows
 mvnw spring-boot:run
 
