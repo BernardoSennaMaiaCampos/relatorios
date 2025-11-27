@@ -1,16 +1,16 @@
-#Windows
+# Windows
 mvnw spring-boot:run
 
-#Global
+# Global
 mvn spring-boot:run
 
-#Gerar PDF
+# Gerar PDF
 http://localhost:8080/relatorio/pdf
 
-#Gerar Excel
+# Gerar Excel
 http://localhost:8080/relatorio/xls
 
-#Gerar HTML
+# Gerar HTML
 http://localhost:8080/relatorio/html
 
 
